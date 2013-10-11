@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Metall Detektor</string>
+    <string name="title_activity_main">Metall Detektor</string>
+    <string name="layout_textView5">Magnetisches Feld</string>
+
+</resources>
