@@ -36,5 +36,6 @@
        		android:gravity="center"
             android:layout_marginTop="430dp"
             android:textColor="#ffffff" />
-    
+        
+                
 </RelativeLayout>
